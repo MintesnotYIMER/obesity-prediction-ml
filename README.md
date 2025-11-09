@@ -79,5 +79,5 @@ Colab loads it automatically from:
 This project demonstrates how **machine learning** can assist in **early obesity risk detection** using structured health data.  
 It highlights the power of combining **data-driven insights** with **public health strategies**.
 
-📘 [Full Report (PDF)](YOUR_PDF_LINK_HERE)  
+📘 [Full Report (PDF)](https://github.com/MintesnotYIMER/obesity-prediction-ml/blob/main/Report_Obesity_Prediction.pdf)  
 💻 [Google Colab](https://colab.research.google.com/drive/17Kr0sl3KtIXKjX-J-10tJfk4P6hMUq9R?usp=sharing)
