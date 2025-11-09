@@ -63,7 +63,7 @@ The goal: classify individuals into **7 obesity categories**, from *Insufficient
 1. Open the notebook → [Google Colab Link](https://colab.research.google.com/drive/17Kr0sl3KtIXKjX-J-10tJfk4P6hMUq9R?usp=sharing)  
 2. The dataset is hosted in this repository.  
 Colab loads it automatically from:  
-[Raw CSV Link](https://raw.githubusercontent.com/MintesnotYIMER/obesity-prediction-ml/refs/heads/main/README.md)
+[Raw CSV Link](https://raw.githubusercontent.com/MintesnotYIMER/obesity-prediction-ml/refs/heads/main/ObesityDataSet_raw_and_data_sinthetic.csv)
 
 3. Run all cells; view accuracy metrics and graphs.
 
