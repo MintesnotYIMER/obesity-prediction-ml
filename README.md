@@ -60,8 +60,11 @@ The goal: classify individuals into **7 obesity categories**, from *Insufficient
 ---
 
 ## 💻 How to Run
-1. Open the notebook → [Google Colab Link](YOUR_COLAB_LINK_HERE)  
-2. Upload dataset or use path provided.  
+1. Open the notebook → [Google Colab Link](https://colab.research.google.com/drive/17Kr0sl3KtIXKjX-J-10tJfk4P6hMUq9R?usp=sharing)  
+2. The dataset is hosted in this repository.  
+Colab loads it automatically from:  
+[Raw CSV Link](https://raw.githubusercontent.com/yourusername/obesity-prediction-ml/main/obesity_data.csv)
+
 3. Run all cells; view accuracy metrics and graphs.
 
 ---
@@ -77,4 +80,4 @@ This project demonstrates how **machine learning** can assist in **early obesity
 It highlights the power of combining **data-driven insights** with **public health strategies**.
 
 📘 [Full Report (PDF)](YOUR_PDF_LINK_HERE)  
-💻 [Google Colab](YOUR_COLAB_LINK_HERE)
+💻 [Google Colab](https://colab.research.google.com/drive/17Kr0sl3KtIXKjX-J-10tJfk4P6hMUq9R?usp=sharing)
